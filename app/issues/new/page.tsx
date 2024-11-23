@@ -6,7 +6,7 @@ import { Separator } from "@/components/ui/separator"
 import { Textarea } from "@/components/ui/textarea"
 import { Label } from "@radix-ui/react-dropdown-menu"
 import { Plus } from "lucide-react"
-import React from 'react'
+
 
 const NewIssuePage = () => {
   return (
