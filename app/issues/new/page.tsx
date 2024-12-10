@@ -43,7 +43,7 @@ const NewIssuePage = () => {
                 ? error 
                 : 'Something went wrong. Please try again.'}
             </AlertDescription>
-    </Alert> : ''}
+          </Alert> : ''}
           <Card className="max-w-[400px]">
             <CardContent>
               <CardTitle className="text-xl py-4">New Issue</CardTitle>
